@@ -3,7 +3,6 @@ package org.dimigo.basic;
 import java.util.Random;
 import java.util.Scanner;
 
-// 수정
 public class Loop {
     public static void main(String[] args) {
         // 실습과제 3 - 초간단 게임프로그램
